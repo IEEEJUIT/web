@@ -5,4 +5,5 @@ Home Repository for IEEE web Team Projects
 - CSS
 - JS
 - PHP
-- SQL
+- SQL/database
+
